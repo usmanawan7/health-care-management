@@ -2,11 +2,13 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import React, { useState, useEffect } from "react";
+
 import { StatCard } from "@/components/StatCard";
 import { Columns } from "@/components/table/columns";
 import { DataTable } from "@/components/table/DataTable";
 import { getRecentAppointmentList } from "@/lib/actions/appointment.actions";
-import React, { useState, useEffect } from "react";
+
 import { PatientModal } from "../../components/PatientModal";
 
 const AdminPage = () => {
