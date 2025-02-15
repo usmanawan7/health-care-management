@@ -4,7 +4,7 @@
 
 HealthCare is a healthcare patient management application using Next.js, Twilio (for SMS notification), TypeScript, TailwindCSS, Shadcn-UI, Zod (for From Validation), Sentry (to monitor performance and error), CLSX that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, and deployed on Vercel.
 
-**To check the website live, visit:** https://healthcare-arnob.vercel.app/
+**To check the website live, visit:** https://health-care-management-pied-two.vercel.app/
 
 ## Project Features
 
